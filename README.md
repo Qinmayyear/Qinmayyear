@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://antzuhl.cn:4000/get/@qinmayyear)
+![](http://antzuhl.cn:4000/get/@Qinmayyear)
