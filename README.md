@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@Qinmayyear)
 
-[![qinrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qinmayyear&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Qinmayyear's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qinmayyear)](https://github.com/anuraghazra/github-readme-stats)
