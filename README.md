@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 This is Qinmay, currently a computer science student.
 
-![Image text](https://raw.github.com/Qinmayyear/repositpry/master/Qinmayyear/image/WechatIMG.jpg)
+![Image text](https://github.com/Qinmayyear/Qinmayyear/blob/main/image/WechatIMG.jpg)
+
+
 
 
 <!-- github 个人统计图
